@@ -1,0 +1,47 @@
+h1{
+color: whitesmoke
+}
+
+*{
+    border: green;
+    border-radius: 25px;
+}
+
+.header{
+    background-color: green;
+    display: flex;
+    
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.bodyImg{
+    background-color: black;
+    display: flex;
+}
+
+.items{
+    border: 2px solid black;
+     border-radius: 50px;
+
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: white;
+
+    width: 310px;
+    font-family: fantasy;
+}
+
+body{
+    background: black;
+}
